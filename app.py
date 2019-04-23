@@ -1,1 +1,1 @@
-print("ok")
+while(1): print("ok")
